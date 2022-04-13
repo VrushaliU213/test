@@ -1,3 +1,4 @@
+# Updated
 print('calculating the average of a number')
 a=int(input("enter a number: "))
 b=int(input("enter a number: "))
